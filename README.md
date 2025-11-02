@@ -61,7 +61,6 @@
 
 ### **Backend** (Node.js WebSocket Bridge)
 
-- **Express** – HTTP server for health checks
 - **WebSocket (ws)** – Real-time bidirectional communication
 - **ConnectRPC** – gRPC-web protocol over WebSocket
 - **Protocol Buffers** – Type-safe message serialization
